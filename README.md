@@ -14,11 +14,12 @@
       <li>Omegle</li>
       <li>Sametime</li>
       <li>Skype</li>
-- Steam
-- Tox
-- Twitter
-- VKontakte
-</body>
+      <li>Steam</li>
+      <li>Tox</li>
+      <li>Twitter</li>
+      <li>VKontakte</li>
+    </ol>
+  </body>
 </html>
 
 ## Supported operating systems 
